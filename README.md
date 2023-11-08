@@ -1,6 +1,9 @@
-# yes_no_app
+# Yes no app
 
-A new Flutter project.
+Flutter app that anwers either yes or no to your questions.
+![Simulator Screenshot - iPhone 15 Pro Max - 2023-11-08 at 11 02 40](https://github.com/sebaaas1609/yes_no_app/assets/64278332/780d4ed7-3b86-405f-9aff-178b62a5c8ec)
+
+
 
 ## Getting Started
 
